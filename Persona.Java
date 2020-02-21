@@ -18,5 +18,11 @@ class Persona
 		System.out.println("Hola soy "+nombre+", y tengo "+edad+" mido "+estatura+" ");
 
 		System.out.println("Hola soy "+nombre+", y tengo "+edad+" mido "+estatura+" ");
+
+		System.out.println("Hola soy "+nombre+", y tengo "+edad+" mido "+estatura+" ");
+
+		System.out.println("Hola soy "+nombre+", y tengo "+edad+" mido "+estatura+" ");
+
+		System.out.println("Hola soy "+nombre+", y tengo "+edad+" mido "+estatura+" ");
 	}
 }
